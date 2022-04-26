@@ -9,7 +9,7 @@
 3. 也可供springcloud使用
 
 ##研发、项目和模式治理状态
-1. 目前状态：-2（取消,-3;过期,-2;预申备,-1;正进行中,0;基本完成,1;审核发布到github,2）
+1. 目前状态：0（取消,-3;过期,-2;预申备,-1;正进行中,0;基本完成,1;审核发布到github,2）
 2. 同步研发中心：已建立
 3. 研发状态：研调=0 空闲=无研调服务端口
 4. 模式治理：<font color=red>待定融合模式，请尽快设定融合模式，否则无法有效进入过程管理和内外发布!</font>
@@ -21,6 +21,13 @@ NOWGITRES
 ```
 
 ##研发代码
++ ..
++ build.gradle <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=build.gradle">查看</a>
++ src <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=src">查看</a>
++ build <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=build">查看</a>
++ certify.sh <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=certify.sh">查看</a>
++ package.json <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=package.json">查看</a>
++ commit.sh <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=commit.sh">查看</a>
 
 
 ##模式编程
@@ -49,6 +56,7 @@ NOWGITRES
 > 本周任务状态：-1
 
 
+####第2022.17周计划:15小时:-1:9
 
 ##研发方案快速设计
 ###关键要点和技术难点
