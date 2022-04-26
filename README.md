@@ -21,7 +21,7 @@ NOWGITRES
 ```
 
 ##研发代码
-+ ..
++ [我的isynccodecenter](http://develop.taijiyun.cc:9000/cgi-bin/publish/ishow?p_id=14&t_id=7&d_id=0&url=isynccodecenter_zengmanping.shtml&_fieldvalue_projectname=isynccodecenter&_fieldvalue_myaccount=zengmanping)
 + build.gradle <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=build.gradle">查看</a>
 + src <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=src">查看</a>
 + build <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=build">查看</a>
