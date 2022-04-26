@@ -9,11 +9,11 @@
 3. 也可供springcloud使用
 
 ##研发、项目和模式治理状态
-1. 目前状态：0（取消,-3;过期,-2;预申备,-1;正进行中,0;基本完成,1;审核发布到github,2）
-2. 同步研发中心：未建立:请先建立代码同步中心
+1. 目前状态：-2（取消,-3;过期,-2;预申备,-1;正进行中,0;基本完成,1;审核发布到github,2）
+2. 同步研发中心：已建立
 3. 研发状态：研调=0 空闲=无研调服务端口
 4. 模式治理：<font color=red>待定融合模式，请尽快设定融合模式，否则无法有效进入过程管理和内外发布!</font>
-5. [github](https://github.com/ilogicdevelop/jcodegenerate)同步：未设置github同步
+5. [https://github.com/ilogicdevelop/jcodegenerate](https://github.com/ilogicdevelop/jcodegenerate)同步：未设置github同步
 6. 本地git：如果本地修改未有git递交可以在问题列表中进行说明后将自动进行递交并说明
 
 ```
@@ -21,7 +21,6 @@ NOWGITRES
 ```
 
 ##研发代码
-+ ..
 
 
 ##模式编程
@@ -88,7 +87,6 @@ NOWGITRES
 
 ##自测验证情况
 
-> <font color=red>警告：本周没有任何任务描述，将无法进行任何自动化测试验收等导致工作零绩效，请赶快设置否则影响本周研发绩效！</font>
 > <font color=red>警告：无整体验测脚本，请尽快增加，否则将无法进行整体验收工作！！</font>
 
 <div id="testcode"></div>

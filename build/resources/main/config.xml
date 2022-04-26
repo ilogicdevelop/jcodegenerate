@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<tables>lostcarinfo_t</tables>
+	<path>E:/Eclipse-luna/workspace/xzhflatservertest/</path>
+	<ingnorefields>au_id1,auditor1,audit_time1,au_id2,auditor2,audit_time2,au_id3,auditor3,audit_time3,url_1,dynurl_1,style_1,creator,mu_id,mender,fname_prefix,published,audit_flag,reject_reason1,reject_reason2,reject_reason3,workflow</ingnorefields>
+	<httpmethods>get,post</httpmethods>
+	<controllername>add</controllername><!-- 基础CRUD请从下述文本选择："add","update","updateBySelective","delete","queryById" ，其它文本按自定义方法处理-->
+	<custommethods>
+		<customMethod>
+			<name>lista</name>
+			<sql>
+				select * from carinsurance_t a left join findcar_t b on a.orderno=b.ordernumber left join userinfo_t c on b.userdid=c.d_id where a.insuranceprice=#{price} and b.paystatus=#{status}
+			</sql>
+		</customMethod>
+		<customMethod>
+			<name>listb</name>
+			<sql>
+				select * from carinsurance_t a left join findcar_t b on a.orderno=b.ordernumber left join userinfo_t c on b.userdid=c.d_id where a.insuranceprice=#{price} and b.paystatus=#{status}
+			</sql>
+		</customMethod>
+	</custommethods>
+</data>

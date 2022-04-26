@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="${mapperPath}.${className}Mapper" >
+
+#foreach($param in ${daoMethods.keySet()})
+<select id="$param" resultType="java.util.HashMap" parameterType="Object">
+	${daoMethods.get($param)}
+	<if test="currentPage !=null  and pageSize!= null  ">
+		 limit #{currentPage},#{pageSize}
+	</if>
+</select>
+
+<select id="count$param" resultType="java.lang.Integer" parameterType="Object">
+	select count(1) from (
+	${daoMethods.get($param)}
+	) $param
+</select>
+#end  
+</mapper>

@@ -1,0 +1,10 @@
+{
+  "name": "ilogiccommit",
+  "version": "1.0.0",
+  "description": "ilogic auto commit support",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.8",
+    "shelljs": "^0.7.1"
+  }
+}
