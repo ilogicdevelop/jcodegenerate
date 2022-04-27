@@ -108,9 +108,10 @@ NOWGITRES
 
 ##自动化评审和品质报告
 
-进行自动化评审并给出品质报告情况简述
+1. 研发代码评审：[代码日审](http://develop.taijiyun.cc:9000/cgi-bin/publish/ishow?p_id=14&t_id=7&d_id=0&url=isynccodecenter___DEVELOPERNAME__.shtml&_fieldvalue_projectname=isynccodecenter&_fieldvalue_myaccount=__DEVELOPERNAME__&dirName=/jcodegenerate&diff=day) [代码周审](http://develop.taijiyun.cc:9000/cgi-bin/publish/ishow?p_id=14&t_id=7&d_id=0&url=isynccodecenter___DEVELOPERNAME__.shtml&_fieldvalue_projectname=isynccodecenter&_fieldvalue_myaccount=__DEVELOPERNAME__&dirName=/jcodegenerate&diff=week) [代码月审](http://develop.taijiyun.cc:9000/cgi-bin/publish/ishow?p_id=14&t_id=7&d_id=0&url=isynccodecenter___DEVELOPERNAME__.shtml&_fieldvalue_projectname=isynccodecenter&_fieldvalue_myaccount=__DEVELOPERNAME__&dirName=/jcodegenerate&diff=month)
 
-[详细报告](http://saas.ilogic.cn)
+1. 进行自动化评审并给出品质报告情况简述：[详细报告](http://saas.ilogic.cn)
+
 
 ##模式化递交、上线和发布
 
