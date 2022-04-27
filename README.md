@@ -9,11 +9,11 @@
 3. 也可供springcloud使用
 
 ##研发、项目和模式治理状态
-1. 目前状态：0（取消,-3;过期,-2;预申备,-1;正进行中,0;基本完成,1;审核发布到github,2）
+1. 目前状态：2（取消,-3;过期,-2;预申备,-1;正进行中,0;基本完成,1;审核发布到github,2）
 2. 同步研发中心：已建立
 3. 研发状态：研调=0 空闲=无研调服务端口
 4. 模式治理：独立模式研发，未设定项目，未设定模板：__<font color=red>点击此处在本研发项目上初始化一个治理模式模板，否则将降低研发治理绩效！</font>__
-5. [https://github.com/ilogicdevelop/jcodegenerate](https://github.com/ilogicdevelop/jcodegenerate)同步：未设置github同步
+5. [https://github.com/ilogicdevelop/jcodegenerate](https://github.com/ilogicdevelop/jcodegenerate)同步：同步完成
 6. 本地git：如果本地修改未有git递交可以在问题列表中进行说明后将自动进行递交并说明
 
 ```
