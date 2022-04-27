@@ -25,6 +25,7 @@ NOWGITRES
 + build.gradle <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=build.gradle">查看</a>
 + src <a href="/opc/ishow?p_id=14&t_id=7&d_id=0&url=isynccodecenter___DEVELOPERNAME__.shtml&_fieldvalue_projectname=isynccodecenter&_fieldvalue_myaccount=__DEVELOPERNAME__&dirName=/jcodegenerate/src">查看</a>
 + build <a href="/opc/ishow?p_id=14&t_id=7&d_id=0&url=isynccodecenter___DEVELOPERNAME__.shtml&_fieldvalue_projectname=isynccodecenter&_fieldvalue_myaccount=__DEVELOPERNAME__&dirName=/jcodegenerate/build">查看</a>
++ test-zyc.txt <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=test-zyc.txt">查看</a>
 + certify.sh <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=certify.sh">查看</a>
 + package.json <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=package.json">查看</a>
 + commit.sh <a href="/opc/ishow?p_id=14&t_id=5&d_id=2&url=jcodegenerate.shtml&progName=commit.sh">查看</a>

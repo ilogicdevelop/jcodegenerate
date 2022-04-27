@@ -24,7 +24,7 @@ public class Generate {
 	private static final Logger logger	=	LoggerFactory.getLogger(Generate.class);
 //	@Test
 	private static void config(Data data) {
-		/** 此处修改成你的 表名 和 中文注释***/
+		/** 此处修改成你的 表名 和  中文注释***/
 		 String codeName ="table";//中文注释  当然你用英文也是可以的 
 		 String keyType = FtlDef.KEY_TYPE_02;//主键生成方式 01:UUID  02:自增
 		 String[] tables	=	data.getTables().split(",");
