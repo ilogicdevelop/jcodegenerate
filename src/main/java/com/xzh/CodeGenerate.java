@@ -67,7 +67,7 @@ public class CodeGenerate {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String xmlPath;
-//		Boolean debug = true;
+//		Boolean debug = true;  
 		Boolean debug = false;
 		if (debug) {
 //		xmlPath	=	"e:\\config\\config-notifyinfo.xml";
